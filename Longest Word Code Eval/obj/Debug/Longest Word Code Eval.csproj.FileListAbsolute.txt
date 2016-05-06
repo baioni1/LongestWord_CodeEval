@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\bin\Debug\Longest Word Code Eval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\bin\Debug\Longest Word Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\bin\Debug\Longest Word Code Eval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\obj\Debug\Longest Word Code Eval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\obj\Debug\Longest Word Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Longest Word Code Eval\Longest Word Code Eval\obj\Debug\Longest Word Code Eval.pdb
